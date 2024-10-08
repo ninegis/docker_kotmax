@@ -1,6 +1,10 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+tdengine/tdengine:3.3.3.0
+zookeeper:3.9.2
+rabbitmq:4.0.2
+redis:7.4.1
+nginx:1.27.2
+nacos/nacos-server:v2.4.2.1
+mysql:9.0.1
+minio/minio:RELEASE.2024-10-02T17-50-41Z.fips
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
