@@ -1,6 +1,6 @@
 tdengine/tdengine:3.3.3.0
 zookeeper:3.9.2
-rabbitmq:4.0.2
+rabbitmq:4.0.2-management
 redis:7.4.1
 nginx:1.27.2
 nacos/nacos-server:v2.4.2.1
